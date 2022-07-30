@@ -1,2 +1,0 @@
-# Bizbox
-MSQL Script

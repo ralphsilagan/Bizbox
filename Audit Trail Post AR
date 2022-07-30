@@ -1,0 +1,1 @@
+select dbo.udf_GetFullName(FK_ASUPost),  *from faArinv where FK_psPatRegisters = 395939
